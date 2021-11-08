@@ -1,0 +1,2 @@
+@image{presentation_mode_start-1}
+@c eof
